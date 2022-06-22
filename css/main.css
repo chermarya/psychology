@@ -1,0 +1,113 @@
+.main__contaier {
+    margin-top: 100px;
+}
+.main__side{
+    float: left;
+    width: 64%;
+    max-height: 100%;
+    height: 924px;
+    background-image: url(../img/bg.jpg);
+}
+.main__cover{
+    margin-top: 46px;
+    margin-left: 46px;
+    padding: 40px;
+    height: 745px;
+    background-color: rgba(68, 51, 41, 0.6);
+}
+.main__sphere{
+    margin-top: 25px;
+    width: 70%;
+    font-size: 40px;
+    border-left: 10px solid #443329;
+}
+.main__sphere p{
+    color: #fff;
+    margin-left: 20px;
+    margin-top: 0px;
+}
+.main__reasons{
+    margin-top: 50px;
+    color: #fff;
+    max-height: 825px;
+}
+.circle{
+    float: left;
+    width: 40px;
+    height: 40px;
+    background-color: #E8C88E;
+    border-radius: 50%;
+    margin: 10px 0 10px 0;
+}
+.reason__txt{
+    float: left;
+    margin-left: 10px;
+    font-size: 33px;
+    width: 90%;
+}
+.reason__txt p{
+    margin: 10px 0;
+}
+.reason-item {
+    float: left;
+    width: 90%;
+}
+.main__about{
+    background-color: #E8C88E;
+    float: left;
+    width: 36%;
+    height: 924px;
+}
+.photo{
+    width: 245px;
+    height: 290px;
+    background-position:center center;
+    background-size:cover;
+    background-image: url(../img/photo.jpg);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px;
+    box-shadow: 0 0 7px rgb(28, 28, 28);
+}
+.border-photo {
+    transform: translate(-50%, 0);
+    margin-left: 50%;
+    width: 265px;
+    margin-top: 17%;
+    padding: 10px;
+    border: 2px solid #fff;
+    border-radius: 50px;
+}
+.about-box {
+    padding: 10px;
+    border: 2px solid #fff;
+    border-radius: 50px;
+    width: 70%;
+    margin-top: 20px;
+    transform: translate(-50%, 0);
+    margin-left: 50%;
+}
+.about{
+    color: #000;
+    font-size: 35px;
+    font-weight: 500;
+    text-align: center;
+    width: 100%;
+}
+.about p{
+    width: 100%;
+    font-size: 25px;
+    margin-top: -5px;
+}
+.extra{
+    text-align: center;
+    border: #fff solid 2px;
+    border-radius: 50px;
+    font-weight: 600;
+    background-color: rgba(0, 0, 0, 0.1);
+    width: 90%;
+    transform: translate(-50%, 0);
+    margin-left: 50%;
+    margin-top: 20px;
+}

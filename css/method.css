@@ -1,0 +1,77 @@
+.image{
+    background-image: url(../img/method_bg.jpeg);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-size: 100% 100%;
+    height: 924px;
+    color: #fff;
+}
+.cover{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(68, 51, 41, 0.5);
+    padding-top: 25px;
+}
+.cover p{ margin: 0;padding: 0;}
+.method_title{
+    width: 90%;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 70px;
+    height: 145x;
+    font-size: 35px;
+    text-align: center;
+    transform: translate(-50%, 0);
+    margin-left: 50%;
+    padding: 10px;
+}
+#qualification{
+    text-align: center;
+    font-size: 28px;
+}
+.left_block{
+    margin-top: 20px;
+    width: 55%;
+    float: left;
+}
+.right_block{
+    margin-top: 20px;
+    width: 45%;
+    float: left;
+}
+.method_work, .method_practic{
+    height: 225px;
+    transform: translate(-50%, 0);
+    margin-left: 50%;
+    border-radius: 70px;
+    font-size: 22px;
+    padding: 10px;
+    margin-top: 90px;
+}
+.method_work{
+    width: 80%;
+    border: solid #fff 3px;
+    background-color: rgba(241, 241, 244, 0.1);
+    padding-left: 8%;
+    color: #000;
+    font-weight: 600;
+}
+.method_practic{
+    text-align: center;
+    width: 90%;
+    background-color: rgba(0, 0, 0, 0.5);
+    font-size: 25px;
+}
+.method_years, .method_war{
+    margin-bottom: 140px;
+    transform: translate(-50%, 0);
+    margin-left: 50%;
+    width: 80%;
+    border-radius: 70px;
+    height: 160px;
+    font-size: 25px;
+    padding: 20px;
+    text-align: center;
+}
+.method_years{background-color: #F1F1F4; color: #000; font-weight: 600;}
+.method_war{border: #000 solid 3px; font-size: 27px; background-color: rgba(0, 0, 0, 0.1);}

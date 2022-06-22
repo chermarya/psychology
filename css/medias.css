@@ -1,0 +1,250 @@
+@media (max-width: 1440px) {
+    /* first-block */
+    .main__about{margin-top: 80px; height: 844px;}
+    .circle{width: 35px; height: 35px;}
+    .reason__txt {font-size: 28px;}
+    .extra{font-size: 14px;}
+    #name{font-size: 25px;}
+    #profession{font-size: 22px;}
+    /* second-block */
+    .method_practic{font-size: 22px;}
+    .method_war{font-size: 25px;}
+    .method_years{font-size: 22px;}
+    /* third-block */
+    .contacts span {font-size: 20px;}
+    #online{font-size: 15px;}
+}
+@media (max-width: 1200px) {
+    /* first-block */
+    .icons_lan button{font-size: 15px;}
+    .main__about{margin-top: 80px;}
+    .main__sphere{font-size: 35px;}
+    .circle{width: 30px; height: 30px;}
+    .reason__txt {font-size: 23px;}
+    /* second-block */
+    .method_title{font-size: 30px;}
+    .method_practic, .method_years{font-size: 20px;}
+    .method_war{font-size: 23px;}
+    .method_practic{padding: 25px;}
+    /* third-block */
+    .logo{width: 65px; height: 65px;}
+    .logo-vib{width: 70px; height: 70px;}
+    /* redirect */
+    .block_msg{width: 60%;}
+}
+@media (max-width: 1024px) {
+    /* first-block */
+    .head_txt{font-size: 40px;}
+    .icons_lan button{font-size: 12px;}
+    .border-photo{width: 225px;}
+    .photo{width: 205px; height: 250px;}
+    .about{font-size: 27px;}
+    .about p{font-size: 19px;}
+    .main__sphere{font-size: 25px;}
+    .reason-item{width: 100%;}
+    .circle{width: 25px; height: 25px;}
+    .extra{font-size: 14px; margin-top: 17px;}
+    #name{font-size: 23px;}
+    #profession{font-size: 20px;}
+    /* second-block */
+    .method_title{font-size: 25px;}
+    .method_work{font-size: 20px;}
+    .method_practic{font-size: 18px; padding: 12px;}
+    .method_war{font-size: 20px;}
+    .method_years{font-size: 18px;}
+    /* third-block */
+    .contact-item {width: 80%;}
+    .logo{width: 55px; height: 55px;}
+    .logo-vib{width: 60px; height: 60px;}
+    .contacts span {font-size: 18px;}
+    label{font-size: 14px;}
+    #online{font-size: 13px;}
+}
+@media (max-width: 800px) {
+    /* first-block */
+    .head_txt{font-size: 35px;}
+    .main__title{width: 28%;}
+    .icons_lan{width: 11%;margin-right: 5%;}
+    .main__about{width: 100%; height: 470px;}
+    .border-photo {transform: translate(0, 0); margin: 20px 0 0 5%; width: 205px; float: left;}
+    .photo{width: 185px; height: 230px;}
+    .about-box {width: 50%; margin-top: 70px; transform: translate(-50%, 0); margin-left: 70%;}
+    .main__side{width: 100%; height: 900px;}
+    .main__sphere{font-size: 40px; width: 100%;}
+    .circle{width: 35px; height: 35px;}
+    .reason__txt {font-size: 28px;}    
+    .extra{margin-top: 60px; font-size: 15px;}
+    #name{font-size: 25px;}
+    #profession{font-size: 25px;}
+    /* second-block */
+    .method__container, .image {height: 1520px;}
+    .method_title{margin-top: 520px;}
+    .right_block, .left_block{width: 100%; float: none;}
+    .method_work, .method_practic {height: 180px; margin-top: 30px;}
+    .method_practic{font-size: 21px;}
+    .method_years, .method_war {margin-bottom: 30px; height: 100px;}
+    /* third-block */
+    .contact__side{width: 100%; float: none; height: 300px; text-align: center; padding: 0px;}
+    .contact-item{margin-top: 0; width: 100%;}
+    .contacts{width: 50%; margin: 0; margin: 0 5% 0 5%; margin-top: 20px;}
+    .contacts span{width: 100%; text-align: left; font-size: 27px;}
+    .contact__back{float: none; width: 100%;}
+    .con__cover{margin: 0; height: 845px;}
+    #online{font-size: 18px; margin-top: 40px;}
+}
+@media (max-width: 700px) {
+    /* first-block */
+    .head_txt{font-size: 30px;}
+    .about-box {width: 40%;}
+    .about {font-size: 25px;}
+    .main__sphere{font-size: 35px;}
+    .circle{width: 30px; height: 30px;}
+    .extra{font-size: 13px; margin-top: 63px;}
+    #profession{font-size: 22px;}
+    /* second-block */
+    .method__container, .image {height: 1470px;}
+    .method_title{font-size: 18px;}
+    .method_practic{font-size: 19px;}
+    /* third-block */
+    .contacts span{width: 100%; text-align: left; font-size: 25px;}
+    /* redirect */
+    .block_msg{width: 70%; padding: 20px; height: 250px;}
+    .success{width: 120px; height: 120px;}
+    .success-btn{top: -50;}
+    #online{font-size: 17px;}
+}
+@media (max-width: 580px) {
+    /* first-block */
+    header{padding: 5px; height: 120px;}
+    .links{width: 70%; float: left;}
+    .border0, .border {height: 120px;}
+    .head_txt{border: none; padding: 0; box-shadow: none;}
+    .main__title{width: 100%; float: none; text-align: left; letter-spacing: 3px; font-weight: 550;}
+    .icons_lan{width: 20%; margin-top: 0;}
+    .main__title:hover{margin-top: 0px; transition: all 0.3s ease 0s; background-color: rgba(255, 255, 255, 0.2);}
+    .head_txt:hover{background-color: rgba(255, 255, 255, 0);}
+    .main__about{margin-top: 0px; width: 100%; height: 400px;}
+    .photo{width: 95px; height: 140px;}
+    .about{font-size: 20px;}
+    .about p{font-size: 15px;}
+    .main__sphere{font-size: 25px; width: 100%;}
+    .circle{width: 20px; height: 20px;}
+    .reason-item{width: 100%;}
+    .reason__txt{width: 85%; font-size: 20px;}
+    .border-photo {width: 115px; padding: 5px;}
+    .about-box {width: 45%; margin-top: 30px; padding: 10px;}
+    #profession{font-size: 12px;}
+    .main__side{width: 100%; height: 680px;}
+    .main__cover{margin-left: 0; margin-top: 0; height: 600px;}
+    .main__reasons{margin-top: 0px;}
+    .extra{margin-top: 55px; font-size: 12px; padding: 7px;}
+    #name{font-size: 20px;}
+    /* second-block */
+    .method__container, .image {margin-top: -120px; height: 1200px;}
+    .method_title{margin-top: 260px; font-size: 11px;}
+    .method_work{font-size: 16px;}
+    .method_practic{font-size: 13px;}
+    .method_practic p{margin-top: 19px;}
+    .method_years, .method_war {font-size: 15px;}
+    /* third-block */
+    .contacts{width: 70%;}
+    .logo{width: 45px; height: 45px;}
+    .logo-vib{width: 50px; height: 50px;}
+    .contacts span{font-size: 20px;}
+    .contact__back{height: 780px;}
+    .con__cover{margin: 0; height: 700px;}
+    .form{padding: 0;}
+    .form__title {font-size: 30px;}
+    .form__input {width: 90%;}
+    /* redirect */
+    .block_msg{
+        width: 500px; 
+        height: 100em; 
+        margin: 0; 
+        border-radius: 0; 
+        padding: 0; 
+        transform: translate(0, 0); 
+        border: none;
+        background-position:center center;
+        background-size: auto 100%;
+    }
+    .block_cover{padding: 0; margin: 0; border-radius: 0;}
+    .success{width: 220px; height: 220px; margin-top: 20%;}
+    .success-btn{top: 30px;width: 200px;}
+    #online{font-size: 12px;}
+}
+@media (max-width: 360px) {
+    /* first-block */
+    .border-photo {margin: 20px 0 0 2%; width: 115px;}
+    .about-box {margin-top: 40px; padding: 7px;}
+    .about{font-size: 15px;}
+    #name{font-size: 15px;}
+    .about p{font-size: 12px;}
+    .main__sphere{font-size: 20px;}
+    .reason__txt{font-size: 18px;}
+    .extra{margin-top: 40px;}
+    /* second-block */
+    .method__container, .image {margin-top: -120px; height: 1180px;}
+    .method_work{font-size: 14px;}
+    .method_practic{font-size: 12px;}
+    .method_years {font-size: 14px;}
+    .method_war{font-size: 15px;}
+    /* third-block */
+    .contact__side{height: 240px;}
+    .logo{width: 35px; height: 35px;}
+    .logo-vib{width: 40px; height: 40px;}
+    .contacts span{font-size: 17px;}
+    .contact__back{height: 700px;}
+    .con__cover{padding: 0;}
+    .form__title {font-size: 25px; margin: 0; padding: 30px; margin-bottom: 30px;}
+    /* redirect */
+    .block_msg{width: 360px;}
+    label{font-size: 12px;}
+    #online{margin-top: 20px;}
+}
+@media (max-width: 320px) {
+    /* first-block */
+    header{padding: 5px; height: 70px;}
+    .main__title a{font-size: 17px;}
+    .icons_lan button {font-size: 5px;}
+    .border0, .border {height: 70px;}
+    .main__container{height: 630px;}
+    .main__about{height: 350px;}
+    .border-photo {width: 75px;}
+    .photo{width: 55px; height: 100px;}
+    .about-box {width: 35%; margin-top: 40px; padding: 5px;}
+    .about{font-size: 10px;}
+    .about p{font-size: 10px;}
+    .main__side{height: 630px;}
+    .main__cover{height: 550px;}
+    .main__sphere{font-size: 15px;}
+    .circle{width: 12px; height: 12px;}
+    .reason__txt{font-size: 14px;}
+    .extra{margin-top: 15px; font-size: 9px; padding: 4px;}
+    #name{font-size: 12px;}
+    #profession{font-size: 13px;}
+    /* second-block */
+    .method__container, .image {margin-top: -120px; height: 1370px;}
+    .method_title{margin-top: 460px; font-size: 7px;}
+    .method_work{font-size: 11px; padding: 20px;}
+    .method_practic{font-size: 11px;}
+    .method_practic p{margin-top: 0;}
+    .method_years {font-size: 12px;}
+    .method_war{font-size: 13px;}
+    /* third-block */
+    .contact__container{height: 550px;}
+    .contact__side{height: 200px;}
+    .logo{width: 20px; height: 20px;}
+    .logo-vib{width: 25px; height: 25px;}
+    .contacts span{font-size: 10px;}
+    .contact__back{height: 550px;}
+    .con__cover{height: 550px;}
+    .form__title {font-size: 17px; margin-bottom: 0;}
+    .form__input{height: 40px; width: 80%; font-size: 12px;}
+    .form__button {margin-top: 0; font-size: 12px; height: 40px;}
+    /* redirect */
+    .block_msg{width: 320px;}
+    .success{width: 90px; height: 90px;}
+    .success-btn{font-size: 14px; height: 40px;}
+    #online{font-size: 8px; margin-top: 10px;}
+}

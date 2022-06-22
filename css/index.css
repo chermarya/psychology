@@ -1,0 +1,70 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+a{text-decoration: none;}
+header{
+    position: fixed;
+    height: 75px;
+    width: 100%;
+    background-color: #6D5548;
+    padding-top: 25px;
+    z-index: 1000;
+}
+.head_txt{
+    font-size: 45px;
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    border-radius: 40px;
+    padding: 10px;
+    box-shadow: 0 0 7px rgb(28, 28, 28);
+}
+.main__title {
+    width: 30%;
+    float: left;
+    text-align: center;
+}
+.main__title:hover{margin-top: 7px; transition: all 0.3s ease 0s;}
+.head_txt:hover{
+    background-color: rgba(255, 255, 255, 0.2);
+    transition: all 0.3s ease 0s;
+}
+.icons_lan {
+    text-align: center;
+    margin-top: -25px;
+    width: 10%;
+    float: left;
+    color: #fff;
+}
+.icons_lan button {
+    width: 50%;
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 1px solid #fff;
+    border-radius: 25%;
+    padding: 7px;
+    margin: 5px;
+    font-size: 20px;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    cursor: pointer;
+}
+.icons_lan button:hover{
+    background-color: rgba(255, 255, 255, 0.3);
+    transition: all 0.3s ease 0s;
+}
+.main__container, .method__container, .contact__container{
+    height: 924px;
+}
+.borber{
+    height: 100px;
+    color: #00000000;
+    margin-top: -100px;
+    z-index: 100;
+}
+.borber0 {
+    height: 100px;
+    color: #00000000;
+}
